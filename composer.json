@@ -1,0 +1,23 @@
+{
+    "name": "iMastersDev/correios,
+    "description": "Pacote de integração com o webservice dos Correios",
+    "keywords": ["pacote", "interação", "webservice", "correios"],
+    "homepage": "https://github.com/iMastersDev/correios",
+    "type": "library",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "João Batista Neto",
+            "email": "neto.joaobatista@gmail.com",
+            "homepage": "http://netojoaobatista.blogspot.com/"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "classmap": [
+            "com/imasters/php"
+        ]
+    }
+}
