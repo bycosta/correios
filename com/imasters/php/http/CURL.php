@@ -5,9 +5,6 @@
  * @package com.imasters.php.http
  */
 
-require_once 'com/imasters/php/http/HTTPRequest.php';
-require_once 'com/imasters/php/http/HTTPResponse.php';
-
 /**
  * @author	João Batista Neto <neto.joaobatista@imasters.com.br>
  * @brief	Requisição HTTP cURL

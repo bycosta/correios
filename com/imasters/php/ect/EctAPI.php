@@ -5,9 +5,6 @@
  * @package com.imasters.php.ect
  */
 
-require_once 'com/imasters/php/http/HTTPConnection.php';
-require_once 'com/imasters/php/http/HTTPCookieManager.php';
-
 /**
  * @brief	Interface para definição de uma API do Correios
  * @author	João Batista Neto <neto.joaobatista@imasters.com.br>

@@ -5,8 +5,6 @@
  * @package com.imasters.php.http
  */
 
-require_once 'com/imasters/php/http/HTTPRequest.php';
-
 /**
  * @author	João Batista Neto <neto.joaobatista@imasters.com.br>
  * @brief	Interface para definição de um autenticador HTTP.

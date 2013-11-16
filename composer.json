@@ -17,7 +17,8 @@
     },
     "autoload": {
         "classmap": [
-            "com/imasters/php"
+            "com/imasters/php/ect/ECT.php",
+            "com/imasters/php/http/HTTPConnection.php"
         ]
     }
 }

@@ -1,5 +1,4 @@
 <?php
-require_once 'com/imasters/php/ect/ECT.php';
 
 $ect = new ECT();
 $prdt = $ect->prdt();

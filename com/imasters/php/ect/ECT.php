@@ -5,10 +5,6 @@
  * @package com.imasters.php.ect
  */
 
-require_once 'com/imasters/php/http/HTTPConnection.php';
-require_once 'com/imasters/php/http/HTTPCookieManager.php';
-require_once 'com/imasters/php/ect/prdt/Prdt.php';
-
 /**
  * @brief	Interface para APIs dos Correios (ECT)
  * @author	João Batista Neto <neto.joaobatista@imasters.com.br>

@@ -5,11 +5,6 @@
  * @package com.imasters.php.ect.prdt
  */
 
-require_once 'com/imasters/php/ect/prdt/ECTFormatos.php';
-require_once 'com/imasters/php/ect/prdt/ECTServicos.php';
-require_once 'com/imasters/php/ect/EctAPI.php';
-require_once 'com/imasters/php/ect/prdt/ECTServico.php';
-
 /**
  * @brief	Cálculo de preços e prazos de entrega de encomendas
  * @author	João Batista Neto <neto.joaobatista@imasters.com.br>

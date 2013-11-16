@@ -5,10 +5,6 @@
  * @package com.imasters.php.http
  */
 
-require_once 'com/imasters/php/http/HTTPAuthenticator.php';
-require_once 'com/imasters/php/http/HTTPRequestMethod.php';
-require_once 'com/imasters/php/http/CURL.php';
-
 /**
  * @author	João Batista Neto <neto.joaobatista@imasters.com.br>
  * @brief	Implementação de um conector HTTP.
